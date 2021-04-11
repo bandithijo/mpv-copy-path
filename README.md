@@ -22,7 +22,7 @@ Just copy `copy-path-xclip.lua` to your `~/.config/mpv/scripts/` directory.
 
 ## 🍲 Usage
 
-Just press **y** then **p** (in sequence), it will get and copy video path/url to your clipboard.
+Just press <kbd><b>y</b></kbd> then <kbd><b>p</b></kbd> (in sequence), it will get and copy video path/url to your clipboard.
 
 Output is plain string, without "\n" (Line Feed), like this:
 
