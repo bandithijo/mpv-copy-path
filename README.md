@@ -35,6 +35,8 @@ https://www.youtube.com/watch?v=WhWc3b3KhnY
 
 ![screenshot](.image/sample_osd.png)
 
+Those clip above is from [Spring - Blender Open Movie](https://www.youtube.com/watch?v=WhWc3b3KhnY).
+
 
 ## 🤝 Credit
 
