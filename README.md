@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=WhWc3b3KhnY
 
 ## 🖼️ Screenshot
 
-![screenshot](.ss/sample_osd.png)
+![screenshot](.image/sample_osd.png)
 
 
 ## 🤝 Credit
